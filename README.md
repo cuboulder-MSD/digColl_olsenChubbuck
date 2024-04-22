@@ -1,8 +1,8 @@
 # Olsen-Chubbuck Collection
 ## Description
-[Enter abstract of the collection, often found on the landing page and provided by the project owner]
+The Olsen-Chubbuck bison kill site is a PaleoIndian archaeological site near in Colorado notable for its evidence of bison hunting and the use of a game drive system. It is named after archaeologists Gerald Chubbuck and Sigurd Olsen who first excavated the site, and was later excavated by Joe Ben Wheat, a curator at the University of Colorado Museum of Natural History. The images in this collection contain field notebooks, photographic prints, negatives, illustrations, and other research materials from the site. All images are sourced from the Olsen-Chubbuck collection in the University of Colorado Museum of Natural History (CUMNH) archives. Collection finding aid available at: [https://archives.colorado.edu/repositories/5/resources/2634](https://archives.colorado.edu/repositories/5/resources/2634)
 
-Permanent address to digital collection: []().<br /> 
+Permanent address to digital collection: [https://doi.org/10.60807/v02g-2009](https://doi.org/10.60807/v02g-2009).<br /> 
 Please use the same link when sharing or citing the collection.
 ## Metadata
 ### Collection Name
