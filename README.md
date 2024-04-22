@@ -6,7 +6,7 @@ Permanent address to digital collection: [https://doi.org/10.60807/v02g-2009](ht
 Please use the same link when sharing or citing the collection.
 ## Metadata
 ### Collection Name
-Name of the collection:
+Name of the collection: Olsen-Chubbuck Collection
 ### Title
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 
